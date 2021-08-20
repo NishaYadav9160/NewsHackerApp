@@ -1,0 +1,24 @@
+.flex-content p {
+    margin: 0;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.flex-content {
+    display: flex;
+    align-items: center;
+}
+.MuiTypography-body1 {
+    padding: 15px;
+    margin-bottom: 15px !important;
+    margin-top: 15px !important;
+}
+.MuiTypography-body1 a {
+    text-decoration: unset;
+    color: #3f51b5;
+    font-size: 14px;
+}
+.MuiTypography-body1 a p {
+    margin: 0;
+    margin-bottom: 15px;
+}
